@@ -1,0 +1,6 @@
+com\example\app\Repository\UserRepo.class
+com\example\app\Service\UserServiceImpl.class
+com\example\app\Entity\User.class
+com\example\app\Service\UserService.class
+com\example\app\Controller\UserController.class
+com\example\app\RegistrationApplication.class
